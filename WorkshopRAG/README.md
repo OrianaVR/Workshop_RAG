@@ -17,12 +17,12 @@ Reemplaza esta tabla con la que genera el botón «Copiar mi progreso en Markdow
 | T3 | Inserción frente a búsqueda | 2 | X | |
 | T4 | El invariante de FAISSVectorStore | 2 | X | |
 | T5 | El costo de la fuerza bruta | 2 | X | |
-| A1 | Ejecuta la app RAG de punta a punta | 4 | ⬜ | |
-| A2 | Tu propio corpus de documentos | 6 | ⬜ | |
-| A3 | Ingeniería del prompt (antes y después) | 5 | ⬜ | |
-| A4 | Muestra el score de similitud en las fuentes | 5 | ⬜ | |
-| B1 | Ejecuta el RAG de papers y evalúa con el ground truth | 6 | ⬜ | |
-| B2 | Experimentos con chunk_size, k y score_threshold | 8 | ⬜ | |
+| A1 | Ejecuta la app RAG de punta a punta | 4 | x | |
+| A2 | Tu propio corpus de documentos | 6 | x | |
+| A3 | Ingeniería del prompt (antes y después) | 5 | x | |
+| A4 | Muestra el score de similitud en las fuentes | 5 | x | |
+| B1 | Ejecuta el RAG de papers y evalúa con el ground truth | 6 | x | |
+| B2 | Experimentos con chunk_size, k y score_threshold | 8 |   | |
 | B3 | Preguntas trampa: ¿el RAG admite que no sabe? | 6 | ⬜ | |
 | B4 | Preguntas en español sobre papers en inglés | 5 | ⬜ | |
 | B5 | Escribe tu propio quiz con ground truth | 5 | ⬜ | |
