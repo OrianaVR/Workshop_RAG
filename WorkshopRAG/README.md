@@ -22,7 +22,7 @@ Reemplaza esta tabla con la que genera el botón «Copiar mi progreso en Markdow
 | A3 | Ingeniería del prompt (antes y después) | 5 | x | |
 | A4 | Muestra el score de similitud en las fuentes | 5 | x | |
 | B1 | Ejecuta el RAG de papers y evalúa con el ground truth | 6 | x | |
-| B2 | Experimentos con chunk_size, k y score_threshold | 8 |   | |
+| B2 | Experimentos con chunk_size, k y score_threshold | 8 |  x | |
 | B3 | Preguntas trampa: ¿el RAG admite que no sabe? | 6 | ⬜ | |
 | B4 | Preguntas en español sobre papers en inglés | 5 | ⬜ | |
 | B5 | Escribe tu propio quiz con ground truth | 5 | ⬜ | |
