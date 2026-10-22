@@ -34,7 +34,7 @@ Reemplaza esta tabla con la que genera el botón «Copiar mi progreso en Markdow
 | C5 | MMR frente a similitud pura (reto) | 8 | ⬜ | |
 | C6 | Persistencia del índice en disco (reto) | 8 | ⬜ | |
 
-**Autoevaluación:** … / 100 puntos.
+**Autoevaluación:** 60/ 100 puntos.
 
 ## Cómo ejecutar mis notebooks
 
